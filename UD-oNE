@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The basic languagee of the <web:HTML></web:HTML></title>
+</head>
+<body>
+    <!--
+       <h1> The basic language of the web:HTML</h1>
+    <h2>The basic language of the web:HTML</h2>
+    <h3>The basic language of the web :HTML</h3>
+    <h4>The basic language of the web :HTML</h4>
+    <h5>The basic language of the web :HTML</h5>
+    <h6>The basic language of the web:HTML</h6>
+ 
+    -->
+    
+
+    <h1>THE CODE MAGAZINE</h1>
+    <P>Posted by <strong>Laura Jones </strong> on Monday , June 21st 2027</P>
+
+    <h2>The basic language of the web :HTML</h2>
+    <p> All mordern websites and web applications are built using three <em>fundamental</em> technologies:HTML,CSS and Javascript.
+
+    </p>
+    <p>In this post lets focus on HTML.We will learn what HTML is all about , and why you too should learn it.</p>
+
+    <h3>What is HTML?</h3>
+    <P>HTML stands for<strong>H</strong>yper <strong>T</strong>ext <strong>M</strong>arkup <strong>L</strong>anguage .Its a markup language that web developers use to structure and describe content of a webpage.(not a programming language.)</P>
+    <p>HTML consits of elements that describe different types of content ;paragrahs, links , headings ,images , video etc.Web browsers understand HTML and render HTML code as websites</p>
+     <p>In HTML, each element is made up of 3 parts</p>
+     <ol>
+        <li>The opening tag.</li> 
+          <li>The closing tag.</li>
+          <li>The actual element</li>
+     </ol>
+     <h4>Why should you learn HTML?</h4>
+     <p>There are countless reasons for learning the fundamental language of the web.</p>
+     <p>Here are 5 of them.</p>
+     <ul>
+       <li>To be able to use the fundamental web dev language </li>
+     </ul>
+    
+
+     
+
+
+</body>
+</html>
